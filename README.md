@@ -4,6 +4,7 @@
 I am interested in many things but what drive me nuts is the Universal Approximation Theorem (we know it as AI). I am in pursuit of challening problems and big datasets. I am a Chemist by choice and a data scientist by passion. I regularly spend time making sense of different kinds of data and learning the principles of MLOPs.
 
 The Languages and Tools I use:
+
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,html,css,javascript,flask,bootstrap,linux,docker,mysql,git&theme=light)](https://skillicons.dev)
 
 <!--
