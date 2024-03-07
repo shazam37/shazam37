@@ -4,7 +4,7 @@
 I am interested in many things but what drive me nuts is the Universal Approximation Theorem (we know it as AI). I am in pursuit of challening problems and big datasets. I am a Chemist by choice and a data scientist by passion. I regularly spend time making sense of different kinds of data and learning the principles of MLOPs.
 
 The Languages and Tools I use:
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,keras,scikit-learn,rdkit,html,css,javascript,flask,bootstrap,linux,docker,mysql,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,keras,scikitlearn,html,css,javascript,flask,bootstrap,linux,docker,mysql,git&theme=light)](https://skillicons.dev)
 
 <!--
 **shazam37/shazam37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+You can find my stats here:
 
 ![Shaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shazam37&show_icons=true&theme=cobalt)
 
