@@ -5,7 +5,7 @@ I am interested in many things but what drive me nuts is the Universal Approxima
 
 The Languages and Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,pytorch,tensorflow,scikitlearn,html,css,javascript,bootstrap,flask,linux,docker,mysql,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,html,css,javascript,bootstrap,flask,linux,docker,mysql,git&theme=light)](https://skillicons.dev)
 
 <!--
 **shazam37/shazam37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
