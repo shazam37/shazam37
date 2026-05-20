@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shaz but people call me Shazam 🤓🤓
 
 
-I am interested in many things but what drive me nuts is the Universal Approximation Theorem. I am in pursuit of challening problems and big datasets. I am an Engineer by choice and a Scientist by passion. I regularly spend time making sense of different kinds of data and practising the principles of software engineering. 
+I am interested in many things but what drive me nuts is the Universal Approximation Theorem. I am in pursuit of challening problems and big datasets. I am an Engineer by choice and a Scientist by passion. I regularly spend time making sense of different kinds of data and practising the principles of software and AI engineering. 
 
 The Languages and Tools I use:
 
